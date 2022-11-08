@@ -1,0 +1,38 @@
+body {
+    background-color:darksalmon;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+a:visited{
+    color:darkorchid;
+}
+a:hover{
+    color: yellow;
+}
+#h1DoMain{
+    text-align: left;
+}
+h1, h2{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.texto{
+    color: darkgreen;
+}
+p{
+    text-align: center;
+    font-size: 125%;
+}
+figure{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+address{
+    text-align: center;
+}
